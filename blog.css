@@ -1,14 +1,15 @@
-:root{
-    --primary-coloer:#1E3A8A;
+:root {
+    --primary-coloer: #1E3A8A;
 
 }
-.images{
+
+.images {
     height: 30%;
     width: 80%;
-    
+
 }
 
-p{
+p {
     height: 60%;
     width: 50%;
     margin: auto;
@@ -16,17 +17,17 @@ p{
     font-size: large;
     font-family: Georgia, serif;
     font-style: italic;
-    
+
 }
 
-h3{
+h3 {
     text-align: center;
-    color:#047857;
+    color: #047857;
     font-style: bold;
 
 }
 
-h1{
+h1 {
     text-align: center;
     color: #047857;
     font-size: xx-large;
@@ -34,27 +35,28 @@ h1{
 }
 
 
-.laptop-img{
+.laptop-img {
     height: 300px;
     width: 900px;
     margin-left: 450px;
     opacity: 35%;
 }
-.images-nav{
+
+.images-nav {
     height: 300px;
     width: 900px;
     margin-left: 450px;
-    border-radius: 50px;    
-    
-   
+    border-radius: 50px;
+
+
 }
 
-.images-group{
+.images-group {
     height: 500px;
     width: 500px;
     margin-left: 650px;
-    border-radius: 50%; 
-    margin-top: 3rem;  
+    border-radius: 50%;
+    margin-top: 3rem;
 
 }
 
@@ -64,12 +66,12 @@ img {
     width: 50px;
     height: 50px;
     margin: auto;
-    
+
 
 
 }
 
-.footer-img{
+.footer-img {
     text-align: center;
     background-color: var(--primary-coloer);
     padding: 2rem 3rem;
@@ -80,6 +82,6 @@ img {
 }
 
 
-.footer-header{
+.footer-header {
     font-size: x-large;
 }
