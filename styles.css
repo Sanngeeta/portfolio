@@ -1,5 +1,5 @@
 :root {
-    --primary-coloer: #312e81;
+    --primary-coloer: #06044b;
     --off-white: #ebdddd;
     --dark-gray: #6B7280;
 }
@@ -72,7 +72,9 @@ h1 {
 .link-Secondary {
     color: white;
     border-radius: 00.5rem;
-    border: 1px solid var(--primary-coloer);
+    /* border: 1px solid var(--primary-coloer); */
+    border: 1px solid var(--off-white);
+    border: bold;
 
 }
 
@@ -192,6 +194,7 @@ h1 {
     background-size: cover;
     position: relative;
     text-decoration: none;
+    margin-top: 3rem;
 
 }
 
@@ -238,6 +241,12 @@ p {
     background-image: url(images/ow.jpg);
     background-size: 200%;
     background-repeat: no-repeat;
+    margin-top: 3rem;
+    
     
 
+}
+
+.heding{
+    margin-top: 2rem;
 }
