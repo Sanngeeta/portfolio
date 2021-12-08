@@ -1,5 +1,5 @@
 :root {
-    --primary-coloer: #1E3A8A;
+    --primary-coloer: #05184b;
 
 }
 
@@ -84,4 +84,5 @@ img {
 
 .footer-header {
     font-size: x-large;
+    margin-left: 3rem;
 }
